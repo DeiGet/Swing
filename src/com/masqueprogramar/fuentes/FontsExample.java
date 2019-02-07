@@ -13,6 +13,13 @@ import javax.swing.SwingConstants;
  * Example of Fonts.
  * 
  * @author Chuidiang
+ * @url http://chuwiki.chuidiang.org/index.php?title=Fuentes_de_texto_en_Java
+ * 
+ * 
+ * @date 07-febrero-2019
+ * @version 1.0
+ * @description Interfaz gráfica que muestra las fuentes disponibles del sistema
+ * @url https://masqueprogramar.wordpress.com/2019/02/07/interfaz-grafica-muestre-fuentes
  * 
  */
 
