@@ -2,7 +2,6 @@ package com.masqueprogramar.fuentes;
 
 import java.awt.Font;
 import java.awt.GraphicsEnvironment;
-import java.util.Arrays;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -48,7 +47,5 @@ public class FontsExample {
 			label.setFont(new Font(font, Font.PLAIN, 15));
 			Thread.sleep(1000);
 		}
-		
 	}
-
 }
