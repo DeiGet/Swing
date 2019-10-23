@@ -1,7 +1,6 @@
 package com.masqueprogramar.componentes;
 
 import java.awt.FlowLayout;
-import java.awt.Rectangle;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
